@@ -1,6 +1,6 @@
 # Hi there, I'm Lubi - aka [ccprogrammer][github] 👋 
 
-## I'm a Developer, and Taekwondo Teacher!!
+### I'm a Developer, and Taekwondo Teacher!!
 
 - 🔭 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
