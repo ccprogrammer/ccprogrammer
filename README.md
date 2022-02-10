@@ -39,10 +39,10 @@
 ### 💻 Latest Apps / Website
 
 <!-- APPS-LIST:START -->
-- [☕ I'm a BARISTA ! Coffee App ](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [😷 The weather is not fine Weather App](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [✈ Traveling Website Nomaden  ](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [😂 Homemade Instagram? ](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [☕ I'm a BARISTA ! Coffee App](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [😷 The weather is not fine, Weather App](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [✈ Bored in home ? Traveling Website Nomaden](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [😂 Homemade Instagram?](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 <!-- APPS-LIST:END -->
 
 
