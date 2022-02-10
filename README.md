@@ -1,7 +1,4 @@
 # Hi there, I'm Lubi - aka [ccprogrammer][github] 🙏 
-أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهِ
-
-
 What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language in english it means "Dream of being a programmer"
 
 <br />
