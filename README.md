@@ -1,4 +1,9 @@
 # Hi there, I'm Lubi - aka [ccprogrammer][github] 🙏 
+أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهِ
+
+Baca artikel detiknews, "Bacaan Dua Kalimat Syahadat, Arab, Latin, dan Artinya" selengkapnya https://news.detik.com/berita/d-4964156/bacaan-dua-kalimat-syahadat-arab-latin-dan-artinya.
+
+Download Apps Detikcom Sekarang https://apps.detik.com/detik/
 What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language in english it means "Dream of being a programmer"
 
 <br />
