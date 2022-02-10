@@ -15,8 +15,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/lubianca-samora#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/lubianca-samora#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/lubiancaaa#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/lubiancaaa#gh-dark-mode-only)
 
 ### Languages and Tools:
 
