@@ -36,7 +36,7 @@
 
 
 
-### 💻 Latest Apps / Website
+### 💻 My Favorite Apps / Website
 
 <!-- APPS-LIST:START -->
 - [☕ I'm a BARISTA ! Coffee App](https://github.com/ccprogrammer/coffeebrew)
