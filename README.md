@@ -4,7 +4,7 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 <br />
 
 ### I'm a Moslim, Developer, and Taekwondo Teacher!!
-- 🧐 I'm currently working as Junior Flutter Developer
+- 💵 I'm currently working as Junior Flutter Developer
 - 🔭 Learning everything i like and find it useful
 - 👯 Looking to collaborate with other developer
 - 🚀 2022 Goals: Learn more about flutter and earn much money as possible 
@@ -43,9 +43,9 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 
 <!-- APPS-LIST:START -->
 - [☕ I'm a BARISTA ! Coffee App](https://github.com/ccprogrammer/coffeebrew)
-- [😷 The weather is not fine, Weather App](https://github.com/ccprogrammer/weather-app)
-- [✈ Bored in home ? Traveling Website Nomaden](https://github.com/ccprogrammer/nomaden)
-- [😂 Homemade Instagram?](https://github.com/ccprogrammer/lazygram)
+- [🌧️ The weather is not fine, Weather App](https://github.com/ccprogrammer/weather-app)
+- [✈️ Bored in home ? Traveling Website Nomaden](https://github.com/ccprogrammer/nomaden)
+- [📸 Homemade Instagram?](https://github.com/ccprogrammer/lazygram)
 <!-- APPS-LIST:END -->
 
 
