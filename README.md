@@ -14,10 +14,10 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 ### Connect with me:
 
 
-[![website](https://cdn-icons-png.flaticon.com/512/174/174855.png)]
+[![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/lubiancaaa)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/lubiancaaa#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/lubiancaaa#gh-dark-mode-only)
+[![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/lubianca-samora/)
+
 
 ### Languages and Tools:
 
