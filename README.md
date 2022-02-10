@@ -3,7 +3,6 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 
 
 <br />
-<br />
 
 
 
