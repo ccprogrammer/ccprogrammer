@@ -9,7 +9,7 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 - 🔭 Learning everything i like and find it useful
 - 🤝 Looking to collaborate with other developer
 - 🚀 2022 Goals: Learn more about flutter and earn much money as possible 
-- ⚡ Fun fact: I'm a black belt Taekwondo athlete since i was in senior high school until now 
+- ⚡ Fun fact: I'm a black belt Taekwondo athlete since i was in senior high school and now my next target is to master Muay Thai and Boxing
 
 
 ### Connect with me:
