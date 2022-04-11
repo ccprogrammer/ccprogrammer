@@ -57,20 +57,6 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 <!-- APPS-LIST:END -->
 
 
-# Identity Name
-git config --global user.name "Luc Michalski"
-
-# Identity Email
-git config --global user.email "michalski.luc@gmail.com"
-
-# Editor Tool
-git config --global core.editor subl
-
-# Diff Tool
-git config --global merge.tool filemerge
-
-
-
 [github]: https://github.com/ccprogrammer
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
