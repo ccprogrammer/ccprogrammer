@@ -47,7 +47,7 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 
 
 
-### 💻 My Favorite Apps / Website
+### 💻 My Favorite Simple Apps / Website
 
 <!-- APPS-LIST:START -->
 - [📝 Everyting is NOTED ! Note App](https://github.com/ccprogrammer/add-note)
