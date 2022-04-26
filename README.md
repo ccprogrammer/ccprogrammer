@@ -50,7 +50,7 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 ### 💻 Self Develop Apps and Website
 
 <!-- APPS-LIST:START -->
-- [📝 Everyting is NOTED ! Note App // Latest App](https://github.com/ccprogrammer/add-note)
+- [📝 Everyting is NOTED ! Note App](https://github.com/ccprogrammer/add-note) // Latest App
 - [☕ I'm a BARISTA ! Coffee App](https://github.com/ccprogrammer/coffeebrew)
 - [🌧️ The weather is not fine, Weather App](https://github.com/ccprogrammer/weather-app)
 - [📸 Homemade Instagram?](https://github.com/ccprogrammer/lazygram)
