@@ -48,7 +48,7 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 ### 💰 Work Project Apps
 
 <!-- APPS-LIST:START -->
-Soon Updating...
+- [🚐 Mitsubishi Autodrive Car Survey ](https://github.com/ccprogrammer/Mitsubishi-Survey)
 <!-- APPS-LIST:END -->
 
 
