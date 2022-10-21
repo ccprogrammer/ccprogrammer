@@ -50,12 +50,12 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 ### 💰 Work Project Apps
 
 <!-- APPS-LIST:START -->
-- 1. [Mitsubishi Autodrive Car Survey ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
-- 2. [BSD City Guide ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
-- 3. [BSD Online Request Permission ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
-- 4. [Homerun Indonesia ](https://play.google.com/store/apps/details?id=com.homerun.homerunclient)
-- 5. [Homerun Talent ](https://play.google.com/store/apps/details?id=com.homerun.homeruntalent)
-- 6. Ontrack App
+- [Mitsubishi Autodrive Car Survey ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
+- [BSD City Guide ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
+- [BSD Online Request Permission ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
+- [Homerun Indonesia ](https://play.google.com/store/apps/details?id=com.homerun.homerunclient)
+- [Homerun Talent ](https://play.google.com/store/apps/details?id=com.homerun.homeruntalent)
+- Ontrack App
 <!-- APPS-LIST:END -->
 
 
@@ -63,7 +63,9 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 ### 💻 Self Develop Website
 
 <!-- APPS-LIST:START -->
-- [✈️ Bored in home ? Traveling Website Nomaden](https://github.com/ccprogrammer/nomaden)
+- [✈️ Bored in home ? Traveling Website Nomaden](https://ccprogrammer.github.io/nomaden/)
+- [🏡 Do you want your dream house come true?](https://ccprogrammer.github.io/zarchitect/) 
+- [💸 Are you productive enough? Creative Agency](https://ccprogrammer.github.io/creativeagency/)
 <!-- APPS-LIST:END -->
 
 ---
