@@ -50,12 +50,12 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 ### 💰 Work Project Apps
 
 <!-- APPS-LIST:START -->
-- [1. Mitsubishi Autodrive Car Survey ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
-- [2. BSD City Guide ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
-- [3. BSD Online Request Permission ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
-- [4. Homerun Indonesia ](https://play.google.com/store/apps/details?id=com.homerun.homerunclient)
-- [5. Homerun Talent ](https://play.google.com/store/apps/details?id=com.homerun.homeruntalent)
-- [6. Ontrack App ]()
+- 1. [Mitsubishi Autodrive Car Survey ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
+- 2. [BSD City Guide ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
+- 3. [BSD Online Request Permission ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
+- 4. [Homerun Indonesia ](https://play.google.com/store/apps/details?id=com.homerun.homerunclient)
+- 5. [Homerun Talent ](https://play.google.com/store/apps/details?id=com.homerun.homeruntalent)
+- 6. Ontrack App
 <!-- APPS-LIST:END -->
 
 
@@ -86,7 +86,7 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
   
 | [Movies App](https://github.com/ccprogrammer/movies-app)  | [Weather App](https://github.com/ccprogrammer/weather-app) | [One Note](https://github.com/ccprogrammer/one-note) |
 | ------------- | ------------- | ------------- |
-| <video src="https://user-images.githubusercontent.com/90954993/197124222-f64eac3c-da30-43e1-bb72-1a9eeca61c01.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197126336-57e55400-3f07-4356-8fcc-f8eb04d54407.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/197104923-914de8b1-2d35-47cb-baaf-5c0b7544e963.mp4">  | 
+| <video src="https://user-images.githubusercontent.com/90954993/197124222-f64eac3c-da30-43e1-bb72-1a9eeca61c01.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197126336-57e55400-3f07-4356-8fcc-f8eb04d54407.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/197131663-5877f651-7c6c-4ee3-9f78-e5c0ecd05a8c.mp4">  | 
   
   
 | [LazyGram](https://github.com/ccprogrammer/lazygram)  | Frontline 2024| [My Maps](https://github.com/ccprogrammer/my-google-maps) |
