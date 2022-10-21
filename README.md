@@ -76,7 +76,7 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
   
 | [Ontracker](https://github.com/ccprogrammer/lazygram)  | Frontline 2024| 
 | ------------- | ------------- | 
-| <video src="https://user-images.githubusercontent.com/90954993/197124231-d60dc539-6892-40c7-afd0-93d53d7c359c.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197126313-29bbdaf9-5b45-4c31-81d3-4b6309ed3150.mp4">  | 
+| <video src="https://user-images.githubusercontent.com/90954993/197125210-0fecc6c0-9eb1-4231-ba53-923e35256cb3.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197126313-29bbdaf9-5b45-4c31-81d3-4b6309ed3150.mp4">  | 
 
 | [Movies App](https://github.com/ccprogrammer/movies-app)  | [Weather App](https://github.com/ccprogrammer/weather-app) | [One Note](https://github.com/ccprogrammer/one-note) |
 | ------------- | ------------- | ------------- |
