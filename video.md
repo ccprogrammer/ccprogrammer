@@ -9,10 +9,16 @@ https://user-images.githubusercontent.com/90954993/197124231-d60dc539-6892-40c7-
 - Mitsubishi Survey
 https://user-images.githubusercontent.com/90954993/197124251-b5e9681a-f168-4353-bc7b-471725305dad.mp4
 
+- Ontracker
+https://user-images.githubusercontent.com/90954993/197125210-0fecc6c0-9eb1-4231-ba53-923e35256cb3.mp4
+
+- Weather App
+https://user-images.githubusercontent.com/90954993/197125238-baecf2a7-b08a-4fb7-ac1a-9551cdfd70fe.mp4
+
 
 
 - MyMaps
-https://user-images.githubusercontent.com/90954993/197124336-5e043911-fd72-4c45-b64c-11d4b755fca2.mp4
+
 
 
 - Homerun Indonesia
