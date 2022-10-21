@@ -75,12 +75,9 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 
 </br>
 
-- [🎥 You love Movies? Come Take a Look at This App](https://github.com/ccprogrammer/movies-app)
-
-https://user-images.githubusercontent.com/90954993/169769618-3e465866-3f8e-4450-a1ee-6e811337dd18.mp4
-
-
-
+| [Movies App](https://github.com/ccprogrammer/movies-app)  | [My Maps](https://github.com/ccprogrammer/my-google-maps) | [One Note](https://github.com/ccprogrammer/one-note) |
+| ------------- | ------------- | ------------- |
+| <video src="https://user-images.githubusercontent.com/90954993/169769618-3e465866-3f8e-4450-a1ee-6e811337dd18.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/166852072-9af037b9-a363-4d00-94f1-ee3b959e3d58.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/166099340-8ff02350-7b07-478f-a133-1a398a781cdd.mp4">  | 
 
 
 [github]: https://github.com/ccprogrammer
