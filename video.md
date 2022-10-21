@@ -7,15 +7,13 @@ https://user-images.githubusercontent.com/90954993/197124231-d60dc539-6892-40c7-
 
 
 - Mitsubishi Survey
-https://user-images.githubusercontent.com/90954993/197124251-b5e9681a-f168-4353-bc7b-471725305dad.mp4
+https://user-images.githubusercontent.com/90954993/197127179-030519fe-c490-4f1d-a376-2b058250e773.mp4
 
 - Ontracker
 https://user-images.githubusercontent.com/90954993/197125210-0fecc6c0-9eb1-4231-ba53-923e35256cb3.mp4
 
 - Weather App
-https://user-images.githubusercontent.com/90954993/197125238-baecf2a7-b08a-4fb7-ac1a-9551cdfd70fe.mp4
-
-
+https://user-images.githubusercontent.com/90954993/197126336-57e55400-3f07-4356-8fcc-f8eb04d54407.mp4
 
 - MyMaps
 https://user-images.githubusercontent.com/90954993/197125801-5c899bca-5209-4ed2-986a-7fed6028f957.mp4
@@ -26,6 +24,8 @@ https://user-images.githubusercontent.com/90954993/197125782-0895e55a-f12f-43b2-
 
 
 - Frontline 2024
+https://user-images.githubusercontent.com/90954993/197126313-29bbdaf9-5b45-4c31-81d3-4b6309ed3150.mp4
+
 
 - OneNote
 https://user-images.githubusercontent.com/90954993/197124469-1ee3e9ba-0557-48f2-a573-a3d169b43a05.mp4
