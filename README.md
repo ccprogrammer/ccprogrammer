@@ -79,9 +79,13 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 | ------------- | ------------- | ------------- |
 | <video src="">  | <video src="">  |  <video src="https://user-images.githubusercontent.com/90954993/197108711-e475650d-6274-4fe7-8ee7-df69d5222db8.mp4">  | 
 
-| [Movies App](https://github.com/ccprogrammer/movies-app)  | [My Maps](https://github.com/ccprogrammer/my-google-maps) | [One Note](https://github.com/ccprogrammer/one-note) |
+| [Movies App](https://github.com/ccprogrammer/movies-app)  | [Weather App](https://github.com/ccprogrammer/weather-app) | [One Note](https://github.com/ccprogrammer/one-note) |
 | ------------- | ------------- | ------------- |
-| <video src="https://user-images.githubusercontent.com/90954993/197124222-f64eac3c-da30-43e1-bb72-1a9eeca61c01.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197104747-c025d719-261b-4c92-ac94-d9b7b1db01b5.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/197104923-914de8b1-2d35-47cb-baaf-5c0b7544e963.mp4">  | 
+| <video src="https://user-images.githubusercontent.com/90954993/197124222-f64eac3c-da30-43e1-bb72-1a9eeca61c01.mp4">  | <video src="">  |  <video src="https://user-images.githubusercontent.com/90954993/197104923-914de8b1-2d35-47cb-baaf-5c0b7544e963.mp4">  | 
+  
+| [LazyGram](https://github.com/ccprogrammer/lazygram)  | [Weather App](https://github.com/ccprogrammer/weather-app) | [One Note](https://github.com/ccprogrammer/one-note) |
+| ------------- | ------------- | ------------- |
+| <video src="[https://user-images.githubusercontent.com/90954993/197124222-f64eac3c-da30-43e1-bb72-1a9eeca61c01.mp4](https://user-images.githubusercontent.com/90954993/197124231-d60dc539-6892-40c7-afd0-93d53d7c359c.mp4)">  | <video src="">  |  <video src="https://user-images.githubusercontent.com/90954993/197104923-914de8b1-2d35-47cb-baaf-5c0b7544e963.mp4">  | 
 
 
 [github]: https://github.com/ccprogrammer
