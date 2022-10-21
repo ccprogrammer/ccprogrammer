@@ -58,14 +58,9 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 
 
 
-### 💻 Self Develop Apps and Website
+### 💻 Self Develop Website
 
 <!-- APPS-LIST:START -->
-- [🎥 You love Movies? Come Take a Look at This App](https://github.com/ccprogrammer/movies-app)
-- [📝 Everyting is NOTED ! Note App](https://github.com/ccprogrammer/add-note) 
-- [☕ I'm a BARISTA ! Coffee App](https://github.com/ccprogrammer/coffeebrew)
-- [🌧️ The weather is not fine, Weather App](https://github.com/ccprogrammer/weather-app)
-- [📸 Homemade Instagram?](https://github.com/ccprogrammer/lazygram)
 - [✈️ Bored in home ? Traveling Website Nomaden](https://github.com/ccprogrammer/nomaden)
 <!-- APPS-LIST:END -->
 
@@ -77,11 +72,11 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 
 | [BSD City Guide](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile)  | [Homerun Indonesia](https://play.google.com/store/apps/details?id=com.homerun.homerunclient) | [Mitsubishi Survey](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile) |
 | ------------- | ------------- | ------------- |
-| <video src="">  | <video src="https://user-images.githubusercontent.com/90954993/197125782-0895e55a-f12f-43b2-951e-ff26ed2bd919.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/197108711-e475650d-6274-4fe7-8ee7-df69d5222db8.mp4">  | 
+| <video src="">  | <video src="https://user-images.githubusercontent.com/90954993/197125782-0895e55a-f12f-43b2-951e-ff26ed2bd919.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/197127179-030519fe-c490-4f1d-a376-2b058250e773.mp4">  | 
   
-| [Ontracker](https://github.com/ccprogrammer/lazygram)  | Frontline 2024| Empty |
-| ------------- | ------------- | ------------- |
-| <video src="https://user-images.githubusercontent.com/90954993/197124231-d60dc539-6892-40c7-afd0-93d53d7c359c.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197126313-29bbdaf9-5b45-4c31-81d3-4b6309ed3150.mp4">  |  <video src="">  | 
+| [Ontracker](https://github.com/ccprogrammer/lazygram)  | Frontline 2024| 
+| ------------- | ------------- | 
+| <video src="https://user-images.githubusercontent.com/90954993/197124231-d60dc539-6892-40c7-afd0-93d53d7c359c.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197126313-29bbdaf9-5b45-4c31-81d3-4b6309ed3150.mp4">  | 
 
 | [Movies App](https://github.com/ccprogrammer/movies-app)  | [Weather App](https://github.com/ccprogrammer/weather-app) | [One Note](https://github.com/ccprogrammer/one-note) |
 | ------------- | ------------- | ------------- |
