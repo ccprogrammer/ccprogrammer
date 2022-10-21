@@ -77,15 +77,19 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 
 | [BSD City Guide](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile)  | [Homerun Indonesia](https://play.google.com/store/apps/details?id=com.homerun.homerunclient) | [Mitsubishi Survey](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile) |
 | ------------- | ------------- | ------------- |
-| <video src="">  | <video src="">  |  <video src="https://user-images.githubusercontent.com/90954993/197108711-e475650d-6274-4fe7-8ee7-df69d5222db8.mp4">  | 
+| <video src="">  | <video src="https://user-images.githubusercontent.com/90954993/197125782-0895e55a-f12f-43b2-951e-ff26ed2bd919.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/197108711-e475650d-6274-4fe7-8ee7-df69d5222db8.mp4">  | 
+  
+| [Ontracker](https://github.com/ccprogrammer/lazygram)  | Frontline 2024| Empty |
+| ------------- | ------------- | ------------- |
+| <video src="https://user-images.githubusercontent.com/90954993/197124231-d60dc539-6892-40c7-afd0-93d53d7c359c.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197126313-29bbdaf9-5b45-4c31-81d3-4b6309ed3150.mp4">  |  <video src="">  | 
 
 | [Movies App](https://github.com/ccprogrammer/movies-app)  | [Weather App](https://github.com/ccprogrammer/weather-app) | [One Note](https://github.com/ccprogrammer/one-note) |
 | ------------- | ------------- | ------------- |
-| <video src="https://user-images.githubusercontent.com/90954993/197124222-f64eac3c-da30-43e1-bb72-1a9eeca61c01.mp4">  | <video src="">  |  <video src="https://user-images.githubusercontent.com/90954993/197104923-914de8b1-2d35-47cb-baaf-5c0b7544e963.mp4">  | 
+| <video src="https://user-images.githubusercontent.com/90954993/197124222-f64eac3c-da30-43e1-bb72-1a9eeca61c01.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197126336-57e55400-3f07-4356-8fcc-f8eb04d54407.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/197104923-914de8b1-2d35-47cb-baaf-5c0b7544e963.mp4">  | 
   
-| [LazyGram](https://github.com/ccprogrammer/lazygram)  | [Weather App](https://github.com/ccprogrammer/weather-app) | [One Note](https://github.com/ccprogrammer/one-note) |
+| [LazyGram](https://github.com/ccprogrammer/lazygram)  | Frontline 2024| [My Maps](https://github.com/ccprogrammer/my-google-maps) |
 | ------------- | ------------- | ------------- |
-| <video src="[https://user-images.githubusercontent.com/90954993/197124222-f64eac3c-da30-43e1-bb72-1a9eeca61c01.mp4](https://user-images.githubusercontent.com/90954993/197124231-d60dc539-6892-40c7-afd0-93d53d7c359c.mp4)">  | <video src="">  |  <video src="https://user-images.githubusercontent.com/90954993/197104923-914de8b1-2d35-47cb-baaf-5c0b7544e963.mp4">  | 
+| <video src="https://user-images.githubusercontent.com/90954993/197124231-d60dc539-6892-40c7-afd0-93d53d7c359c.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197126313-29bbdaf9-5b45-4c31-81d3-4b6309ed3150.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/197125801-5c899bca-5209-4ed2-986a-7fed6028f957.mp4">  | 
 
 
 [github]: https://github.com/ccprogrammer
