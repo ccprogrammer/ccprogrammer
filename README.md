@@ -1,5 +1,5 @@
 # Hi there, I'm Lubi - aka [TechWarrior][github] 🙏 
-What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language in english it means "Dream of being a programmer".
+What is TechWarrior? it's for a tech nerd with a spirit of martial arts warrior .
 
 
 <br />
