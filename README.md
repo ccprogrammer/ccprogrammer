@@ -50,13 +50,10 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 ### 💰 Work Project Apps
 
 <!-- APPS-LIST:START -->
-- [Mitsubishi Autodrive Car Survey ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
-- [BSD City Guide ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
-- [BSD Online Request Permission ](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
+- [OneSmile](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
 - [Homerun Indonesia ](https://play.google.com/store/apps/details?id=com.homerun.homerunclient)
-- [Homerun Talent ](https://play.google.com/store/apps/details?id=com.homerun.homeruntalent)
-- Ontrack App
-- Frontline 2024
+- [Layar](https://play.google.com/store/apps/details?id=com.tvri.layar)
+- [Ontracker](https://github.com/ccprogrammer)
 <!-- APPS-LIST:END -->
 
 
@@ -75,13 +72,14 @@ What is ccprogrammer? The cc means Cita-cita it's bahasa / indonesian language i
 
 </br>
 
-| [Mitsubishi Survey](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile)  | [Homerun Indonesia](https://play.google.com/store/apps/details?id=com.homerun.homerunclient) | [BSD City Guide](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile) |
+
+| [OneSmile](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile)  | [Homerun Indonesia](https://play.google.com/store/apps/details?id=com.homerun.homerunclient) | [Layar](https://play.google.com/store/apps/details?id=com.tvri.layar) |
 | ------------- | ------------- | ------------- |
-| <video src="https://user-images.githubusercontent.com/90954993/197127179-030519fe-c490-4f1d-a376-2b058250e773.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197125782-0895e55a-f12f-43b2-951e-ff26ed2bd919.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/197132877-9451e40d-533e-46f4-88fc-232b5f2bd594.mp4">  | 
+| <video src="https://github.com/ccprogrammer/ccprogrammer/assets/90954993/bc082b53-30f1-46fd-81df-4951d7ab6ec3">  | <video src="https://user-images.githubusercontent.com/90954993/197125782-0895e55a-f12f-43b2-951e-ff26ed2bd919.mp4">  |  <video src="https://github.com/ccprogrammer/ccprogrammer/assets/90954993/ced9ca04-5ae9-4b15-a28d-cb49f189d34c">  | 
   
-| Ontracker  | Frontline 2024| 
-| ------------- | ------------- | 
-| <video src="https://user-images.githubusercontent.com/90954993/197125210-0fecc6c0-9eb1-4231-ba53-923e35256cb3.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197126313-29bbdaf9-5b45-4c31-81d3-4b6309ed3150.mp4">  | 
+| Ontracker  |
+| ------------- |
+| <video src="https://user-images.githubusercontent.com/90954993/197125210-0fecc6c0-9eb1-4231-ba53-923e35256cb3.mp4">  |
   
 </br>
 
