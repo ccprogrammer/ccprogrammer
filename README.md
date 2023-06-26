@@ -1,4 +1,4 @@
-# Hi there, I'm Lubi - aka [TechWarrior][github] 🙏 
+# Hi there, I'm Lubi - aka [ccprogrammer][github] 🙏 
 What is TechWarrior? it's for a tech nerd with a spirit of martial arts warrior .
 
 
