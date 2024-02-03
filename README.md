@@ -1,15 +1,15 @@
 # Hi there, I'm Lubi - aka [ccprogrammer][github] 🙏 
-What is TechWarrior? it's for a tech nerd with a spirit of martial arts warrior .
+What is ccprogrammer? it means "cita-cita programmer" in bahasa Indonesia and in english it's "Dreaming to be a Programmer".
 
 
 <br />
 
-### I'm a Moslim Mobile Frontend Developer with Flutter & React Native, Ex Taekwondo Athlete, Future Muay Thai Athlete 😅 and Taekwondo Teacher
+### I'm a Muslim Mobile Frontend Developer specializing in Flutter and various other tools
 - 💵 I'm currently working as Flutter Developer
 - 🔭 Learning everything i like and find it useful
 - 🤝 Looking to collaborate with other developer
-- 🚀 2023 Goals: Learn more about flutter and earn much money as possible 
-- ⚡ Fun fact: I'm a black belt Taekwondo athlete since i was in senior high school and now my next target is to master Muay Thai and Boxing
+- 🚀 2024 Goals: Learn more about flutter and earn much money as possible 
+- ⚡ Fun fact: I've been a black belt Taekwondo athlete since high school, and now I'm also a Muay Thai Fighter.
 
 
 ### Connect with me:
