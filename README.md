@@ -20,6 +20,8 @@ What is ccprogrammer? it means **cita-cita programmer** in bahasa Indonesia and 
   </picture>
 </p>
 
+<br/>
+
 <h3>Stats:</h3>
 <table border="0" style="border: none"><tr style="border: none"><td style="border: none"><picture style="border: none"><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ccprogrammer&show_icons=true&locale=en&theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=ccprogrammer&show_icons=true&locale=en" alt="ccprogrammer" /></picture></td><td style="padding-left: 20px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ccprogrammer&theme=dark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ccprogrammer&" alt="ccprogrammer" /></picture></td></tr></table>
 
