@@ -34,7 +34,7 @@ What is ccprogrammer? it means **cita-cita programmer** in bahasa Indonesia and 
 <br/>
 <h3>Connect with me:</h3>
 <p align="left">
-<a href="mailto:lubiancaaa@gmail.com" target="_blank">
+<a href="mailto:lubianca.samora@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/6285880853298" target="_blank">
