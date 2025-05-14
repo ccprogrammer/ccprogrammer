@@ -49,16 +49,6 @@ What is ccprogrammer? it means **cita-cita programmer** in bahasa Indonesia and 
 </p>
 <br/>
 
-<h3>Trophies:</h3>
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ccprogrammer&theme=onedark&margin-h=15&margin-w=15&column=4">
-    <img src="https://github-profile-trophy.vercel.app/?username=ccprogrammer&margin-w=15&margin-h=15&column=4" alt="ccprogrammer" />
-  </picture>
-</p>
-
-<br/>
-
 <h3>Stats:</h3>
 <div align="left" style="display: flex; 
            justify-content: center;
@@ -70,6 +60,19 @@ What is ccprogrammer? it means **cita-cita programmer** in bahasa Indonesia and 
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccprogrammer&layout=compact&theme=darcula" alt="Top Langs" style="vertical-align: top;"/>
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ccprogrammer&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" style="vertical-align: top;"/>
 </div>
+
+<br/>
+
+<h3>Trophies:</h3>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ccprogrammer&theme=onedark&margin-h=15&margin-w=15&column=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=ccprogrammer&margin-w=15&margin-h=15&column=4" alt="ccprogrammer" />
+  </picture>
+</p>
+
+<br/>
+
 
 <!-- ### Connect with me:
 
