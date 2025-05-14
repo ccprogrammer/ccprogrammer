@@ -12,26 +12,15 @@ What is ccprogrammer? it means **cita-cita programmer** in bahasa Indonesia and 
 
 <br />
 
-<h3>Trophies:</h3>
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ccprogrammer&theme=onedark&margin-h=15&margin-w=15&column=4">
-    <img src="https://github-profile-trophy.vercel.app/?username=ccprogrammer&margin-w=15&margin-h=15&column=4" alt="ccprogrammer" />
-  </picture>
-</p>
-
-<br/>
-
-<h3>Stats:</h3>
-<table border="0" style="border: none"><tr style="border: none"><td style="border: none"><picture style="border: none"><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ccprogrammer&show_icons=true&locale=en&theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=ccprogrammer&show_icons=true&locale=en" alt="ccprogrammer" /></picture></td><td style="padding-left: 20px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ccprogrammer&theme=dark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ccprogrammer&" alt="ccprogrammer" /></picture></td></tr></table>
-
-<br/>
 <h3>Things I code with:</h3>
 <p align="left">
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<!-- <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> -->
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="Xcode" src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
@@ -51,9 +40,6 @@ What is ccprogrammer? it means **cita-cita programmer** in bahasa Indonesia and 
   <a href="https://wa.me/6285880853298" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<!--    <a href="https://facebook.com/EmadBeltaje" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a> -->
   <a href="https://t.me/Lubiancaaa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -63,6 +49,27 @@ What is ccprogrammer? it means **cita-cita programmer** in bahasa Indonesia and 
 </p>
 <br/>
 
+<h3>Trophies:</h3>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ccprogrammer&theme=onedark&margin-h=15&margin-w=15&column=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=ccprogrammer&margin-w=15&margin-h=15&column=4" alt="ccprogrammer" />
+  </picture>
+</p>
+
+<br/>
+
+<h3>Stats:</h3>
+<div align="left" style="display: flex; 
+           justify-content: center;
+           align-items: flex-start;
+           align-content: flex-start;
+           flex-wrap: wrap;
+           gap: 10%;
+           width: 100%;">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccprogrammer&layout=compact&theme=darcula" alt="Top Langs" style="vertical-align: top;"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ccprogrammer&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" style="vertical-align: top;"/>
+</div>
 
 <!-- ### Connect with me:
 
